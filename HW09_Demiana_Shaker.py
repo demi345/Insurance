@@ -115,7 +115,7 @@ class Grade:
 def main():
     """a main() routine to run the whole thing"""
 
-    data_path = '/Users/jrr/Documents/Stevens/810/Assignments/HW09_Repository'
+    data_path = 'C:\Users\demis\OneDrive\Desktop\data_path'
     repo = Repository(data_path)
     
 
